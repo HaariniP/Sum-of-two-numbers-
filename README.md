@@ -8,3 +8,5 @@ int sum=a+b;
 system.out.println(a+”+”+b+”=”+sum)
 }
 }
+output:
+10+20=30
